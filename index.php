@@ -27,13 +27,18 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
+        <link rel="stylesheet" href="style.css">
 </head>
 <body>
-        <ul>
-            <li><a href="index.php?page=page1">Accueil</a></li>
-            <li><a href="index.php?page=page2">Tech</a></li>
-            <li><a href="index.php?page=page3">IA</a></li>
-        </ul>
+    <header>  
+        <nav>
+            <ul>
+                <li class="liste"><a class="menu" href="index.php?page=page1">Accueil</a></li>
+                <li class="liste"><a class="menu" href="index.php?page=page2">Tech</a></li>
+                <li class="liste"><a class="menu" href="index.php?page=page3">IA</a></li>
+            </ul>
+        </nav>
+    </header>
 
         <?php require "$pageDemander"?>
 
