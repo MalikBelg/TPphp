@@ -4,7 +4,7 @@
             "titre" => 'Le W3C vassalisé par les navigateurs web',
             "date" => '29 Mai 2019',
             "contenu" => 'Le W3C a annoncé avoir confié l élaboration des normes HTML et DOM 
-            aux éditeurs de navigateurs web. Une victoire pour ces derniers, qui....'
+            aux éditeurs de navigateurs web. Une victoire pour ces derniers, qui...'
     ];
         
     $art2 = [
