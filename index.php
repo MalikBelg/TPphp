@@ -13,7 +13,6 @@
             case "page3" : $pageDemander = "page3.php";
             break;
             default : $pageDemander = "page1.php";
-
         }
     }
 
