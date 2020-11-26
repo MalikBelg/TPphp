@@ -14,7 +14,10 @@
             break;
             default : $pageDemander = "page1.php";
         }
-    }
+      } else {
+          $pageDemander = "page1.php";
+      }
+
 
 ?>
 
