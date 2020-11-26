@@ -1,3 +1,36 @@
-li {
+* {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+
+ul {
+    display: flex;
+}
+
+.liste {
+    display: flex;
     list-style-type: none;
+    width: 100%;
+}
+
+.menu {
+    width: 100%;
+    padding: 1vh;
+    border: 2px solid #e0e5ee;
+    border-radius: 3px;
+    color: #e0e5ee;
+    background-color: maroon;
+    text-align: center;
+}
+
+.menu:hover {
+    background-color: #e0e5ee;
+    color: maroon;
+    border: 2px solid maroon;
+
+}
+
+article {
+    border: 2px solid black;
 }
