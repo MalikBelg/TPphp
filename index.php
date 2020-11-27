@@ -1,6 +1,5 @@
 <?php
    
-    require_once 'articles.php';
 
     if(isset($_GET["page"])){
 

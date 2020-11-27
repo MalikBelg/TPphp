@@ -1,3 +1,8 @@
+<?php 
+
+    require_once 'articles.php';
+
+?>
 <h1>IA</h1>
 
     <article>

@@ -1,3 +1,9 @@
+<?php 
+
+    require_once 'articles.php';
+
+?>
+
 <h1>Tech</h1>
 
     <article>
